@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.logo, .site-title, .image {
+	min-height: 100px;
+}
+.nav {
+	min-height: 500px;
+}
+.nav-link {
+	padding: 30px 0;
+
+}
+.nav-link li {
+	width: 13%;
+	display: inline-block;
+	margin: 10px 1px;
+}
+.nav-right li {
+	display: inline-block;
+	margin-left: 38px;
+	margin: 38px 20px;
+}
+span {
+	width: 100%;
+}

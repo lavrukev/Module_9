@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 10px 10px 10px 10px;
+  background: #fff;
+}
+
+.head {
+  height: 200px;
+}
+
+.block {
+  height: 100px;
+}
+article .fourth {
+  margin: 0;
+}
